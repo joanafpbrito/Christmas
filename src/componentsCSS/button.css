@@ -1,0 +1,30 @@
+.myBtn {
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    font-size: 2em;
+    font-weight: 500;
+    color: #457b9d;
+    background-color: rgba(82, 10, 10, 0.75);
+    cursor: grabbing;
+}
+
+.myBtn:hover {
+
+    box-shadow: 2px 2px 4px #ff0000, /* Sombra vermelha */ 
+               -2px -2px 4px #008000, /* Sombra verde */
+               0 0 8px #ffd700, /* Sombra dourada */
+               0 0 12px #ffffff; /* Sombra branca suave */
+}
+
+.myBtn:active {
+    background-color: #ffd700;
+}
+
+.myBtnContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px; 
+    justify-content: center;
+}
+

@@ -1,0 +1,37 @@
+.card{
+    padding: 5%;
+    width: 300px;
+    background-color: rgba(82, 10, 10, 0.75);
+    color: #457b9d;
+    text-shadow:0 0 1px #ffd700;
+    border-radius: 15px;
+    box-shadow: 0 0 1px #ffd700;
+                
+  }
+
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px; 
+    justify-content: center;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #457b9d, 0 0 5px #ffd700;
+  }
+
+.title {
+  font-size: 3rem;
+  color: #720b0b;
+  text-shadow: 2px 2px 4px #ff0000, /* Sombra vermelha */ 
+               -2px -2px 4px #008000, /* Sombra verde */
+               0 0 8px #ffd700, /* Sombra dourada */
+               0 0 16px #ffffff; /* Sombra branca suave */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  margin: 50px;
+
+  }

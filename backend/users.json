@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Joana",
+    "lastName": "Brito",
+    "institution": "cao-ou-sem-casa",
+    "item": "mantas",
+    "termsAccepted": true
+  },
+  {
+    "firstName": "João",
+    "lastName": "Pinho",
+    "institution": "ira",
+    "item": "mantas",
+    "termsAccepted": true
+  },
+  {
+    "firstName": "Julieta",
+    "lastName": "Brito",
+    "institution": "patinhas-patudos",
+    "item": "biscoitos",
+    "termsAccepted": true
+  },
+  {
+    "firstName": "Cristina",
+    "lastName": "Pinho",
+    "institution": "mar-animais",
+    "item": "brinquedos",
+    "termsAccepted": true
+  },
+  {
+    "firstName": "Alfredo",
+    "lastName": "Pinho",
+    "institution": "midas",
+    "item": "trelas",
+    "termsAccepted": true
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Henriques",
+    "institution": "ani-sao-joao",
+    "item": "camas",
+    "termsAccepted": true
+  }
+]
